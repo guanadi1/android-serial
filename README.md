@@ -1,4 +1,4 @@
 Arduino_BT_Android
 ====================
 
-Comunicar Arduino con Android mediante Bluettoth
+Comunicar Arduino con Android mediante Bluettoth.
