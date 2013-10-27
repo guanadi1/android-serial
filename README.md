@@ -1,29 +1,27 @@
 Comunicación Arduino con Android
 ====================
 
-El codigo fuente que podeis ver aqui son ejemplos utilizados
-en el video tutorial http://youtube...en el cual se explica
-basicamente como conectar la placa Arduino con Android, con
-modulo bluetooth HC-05. 
+El código fuente que podéis ver aquí son ejemplos utilizados
+en el vídeo tutorial http://www.youtube.com/user/jalucenyo en el 
+cual se explica básicamente como conectar la placa Arduino con Android, 
+con modulo bluetooth HC-05. 
 
-Podemos encontrar 3 Cartpetas.
+Podemos encontrar las diferentes carpetas que hace referencia a
+cada uno de los videos.
 
-SendCommandAT 
+Lesson01
 ====================
-Con este codigo de Arduino podremos utilizar la placa arduino
-para configurar y ver los parametros del modulo bluetooth HC-05,
-mediante comandos AT.
 
-ToggleLED
+Podemos encontrar el programa para arduino SendCommandATcon este programa 
+cargado en nuestro Arduino podremos enviar los comandos AT de configuración 
+para cambiar o ver los parámetros del modulo bluetooth HC-05.
+
+Lesson02
 ====================
-Es un sencillo programa para arduino, en el cual al recibir el caracter 'L' 
+
+ToggleLED es un sencillo programa para arduino, en el cual al recibir el carácter 'L' 
 por bluetooth cambia el estado del LED conectado a la patilla Nº 13.
 
-StartArduinoBTAndroid
-====================
-Esta ultima carpeta contiene una APP de ejemplo basica en la cual podemos
-conectar con el modulo HC-05 y enviarle el caracter 'L' al pulsar un boton.
-Convinado con el programa anterior de Arduino.
 
 Licencia
 ====================
