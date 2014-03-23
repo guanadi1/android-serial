@@ -1,4 +1,4 @@
-1Comunicación Arduino con Android
+Comunicación Arduino con Android
 ====================
 
 El código fuente que podéis ver aquí son ejemplos utilizados
