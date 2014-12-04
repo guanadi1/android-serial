@@ -1,5 +1,5 @@
 /*
- *  Author: Jose Antonio Luceño Castilla
+ *  Author: Diego Esteban Guaña Logroño
  *  Date  : Septempber 2013
  *  
  *  This program is free software: you can redistribute it and/or modify
